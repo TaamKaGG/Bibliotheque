@@ -11,7 +11,7 @@ Once the Database URL seems to be working, launch the update.sh bash file and se
 
 At the end, the "yarn dev -o" command will automatically open the localhost for you and allow you to use the app.
 
-## A few notes ##
+## A few things about the API ##
 As I said previously, I ran out of time and failed the task completly.
 If you need to check if the create, update, delete fonctionnalities work, you will need to get to them via the URL (for example : http://localhost:3000/books/4 to access the Show page of book id 4)
 Their are 3 entities (and API Resources) : Book, Review and Categorie.
